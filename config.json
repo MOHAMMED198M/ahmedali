@@ -1,0 +1,7 @@
+{
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN_HERE",
+    "activation_code": "AHMAD2026",
+    "admins": [
+        123456789
+    ]
+}
